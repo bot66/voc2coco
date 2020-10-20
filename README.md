@@ -3,7 +3,10 @@ Usage
 
 A python script for converting PASCAL VOC xml file format to MSCOCO json file format in **Object Detection**.
 
-`python voc2coco.py --xml_dir path/to/xml_files  --output path/to/save/data.json `
+```
+python voc2coco.py --xml_dir path/to/xml_files  --output path/to/save/data.json 
+
+```
 
 
 
